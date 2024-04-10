@@ -41,7 +41,7 @@ print_modname() {
   ui_print " $MODNAME "
   ui_print "$pounds"
   ui_print "*******************"
-  ui_print " MI Pad Programmable Completion "
+  ui_print " Mi Pad Special Edition Featuring Harry Potter "
   ui_print " Made by Sothx  "
   ui_print " Powered by Magisk "
   ui_print "*******************"
