@@ -1,0 +1,80 @@
+{
+  "localId": "de243fbb-a8fe-4f64-9e0a-519a5e41c584",
+  "onlineId": null,
+  "assemblyId": null,
+  "productId": null,
+  "hash": "dea7944c7d9405ed1b3b53551689361bad1a59ab",
+  "platform": 15,
+  "size": 4975069,
+  "updatedTime": 0,
+  "version": "2024.02.19",
+  "authors": {
+    "zh_HK": "小米主題",
+    "zh_TW": "小米主題",
+    "bo_CN": "ཞའོ་མཱི་གཙོ་དོན།",
+    "en_US": "Xiaomi Themes",
+    "ug_CN": "شياۋمى ئۇسلۇبى",
+    "zh_CN": "小米主题",
+    "fallback": "小米主题"
+  },
+  "designers": {
+    "zh_HK": "小米主題",
+    "zh_TW": "小米主題",
+    "bo_CN": "ཞའོ་མཱི་གཙོ་དོན།",
+    "en_US": "Xiaomi Themes",
+    "ug_CN": "شياۋمى ئۇسلۇبى",
+    "zh_CN": "小米主题",
+    "fallback": "小米主题"
+  },
+  "titles": {
+    "zh_HK": "Redmi Pad Pro 哈利·波特版",
+    "zh_TW": "Redmi Pad Pro 哈利·波特版",
+    "bo_CN": "Redmi Pad Pro ཧའོ་ལི·པའོ་ཏྲ་པར་གཞི།",
+    "en_US": "Redmi Pad Pro Special Edition featuring Harry Potter",
+    "ug_CN": "Redmi Pad Pro خاررىي پوتتېر نەشرى",
+    "zh_CN": "Redmi Pad Pro 哈利·波特版",
+    "fallback": "Redmi Pad Pro 哈利·波特版"
+  },
+  "descriptions": {
+    "zh_HK": "換上魔法師袍，想像霍格華茲在召喚你入學！主題以霍格華茲開學場景為背景，深度訂製桌面背景和圖示。經典的魔法元素設計和場景呈現，帶你重回哈利·波特的魔法世界！",
+    "zh_TW": "換上魔法師袍，想像霍格華茲在召喚你入學！主題以霍格華茲開學場景為背景，深度訂製桌面背景和圖示。經典的魔法元素設計和場景呈現，帶你重回哈利·波特的魔法世界！",
+    "bo_CN": "སྒྱུ་འཕྲུལ་མཁན་གྱི་ཕྱུ་པ་གྱོན་རྗེས། ཁྱེད་ཉིད་ཧོག་ཧའོ་ཙེར་སློབ་བཞུགས་ལ་འབོད་པར་སོམས་དང་། གཙོ་དོན་འདིར་ཧོག་ཧའོ་ཙེའི་སློབ་ཚུགས་རྣམ་པ་རྒྱབ་ལྗོངས་སུ་བྱས་ཏེ། ཅོག་ངོས་དང་རིས་རྟགས་བཟོ་སྒྲིག་བྱས་ཡོད། སྒྱུ་འཕྲུལ་ཆ་ཤས་དང་ལྗོངས་རྣམ་དག་མངོན་ཞིང་། ཁྱེད་ཉིད་ཧའོ་ལི·པའོ་ཏྲའི་སྒྱུ་འཕྲུལ་འཇིག་རྟེན་དུ་བསྐྱར་དུ་ལན་གཅིག་ཁྲིད་ངེས།",
+    "en_US": "Put on the magic uniform, imaging Hogwarts is calling you to enroll! The theme uses the Hogwarts opening scene as the background and deeply customizes the desktop background and icons. The classic magic element design and the student dormitory corridor scene will take you back to the magical world of Harry Potter!",
+    "ug_CN": "تونى كىيىپ ، خوگۋاتىسنىڭ سىزنى مەكتەپكە كىرىشكە چاقىرغانلىقىنى تەسەۋۋۇر قىلىڭ ! باش تېمىسى خوگۋارتسنىڭ ئوقۇش باشلاش كۆرۈنۈشىنى ئارقا كۆرۈنۈش قىلىپ ، ئۈستەل يۈزى ئارقا كۆرۈنۈشى ۋە سىنبەلگىنى چوڭقۇر زاكاز قىلدى . كىلاسسىك سېھىرلىك ئېلېمېنتلارنىڭ لايىھەلىنىشى ۋە كۆرۈنۈش نامايان قىلىنىشى سىزنى قايتىدىن خاررىي پوتتېرنىڭ سېھىرلىك دۇنياسىغا باشلاپ بارىدۇ !",
+    "zh_CN": "换上巫师袍，想象霍格沃茨在召唤你入学！主题以霍格沃茨开学场景为背景，深度定制桌面背景和图标。经典的魔法元素设计和场景呈现，带你重回哈利·波特的魔法世界！",
+    "fallback": "换上巫师袍，想象霍格沃茨在召唤你入学！主题以霍格沃茨开学场景为背景，深度定制桌面背景和图标。经典的魔法元素设计和场景呈现，带你重回哈利·波特的魔法世界！"
+  },
+  "builtInThumbnails": {
+    "fallback": []
+  },
+  "builtInPreviews": {
+    "fallback": []
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [
+    {
+      "localId": "53497b2d-19a0-45e8-96f9-d3c61e4229b0",
+      "resourceCode": "theme",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "subResources": [],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null,
+  "screenRatio": null,
+  "supportHomeSearchBar": false,
+  "packageVersion": null,
+  "packageName": null,
+  "officialIcons": false,
+  "iconsCount": null,
+  "fontWeight": null,
+  "price": -1,
+  "isBackUpVersion": false,
+  "themeType": 0,
+  "miuiAdapterVersion": "3.0"
+}

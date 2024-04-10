@@ -1,0 +1,7 @@
+# id 只能填 字母 数字 半角符号
+id=mipad-special-edition-featuring-harry-potter
+name=
+version=V1.00.00
+versionCode=10000
+author=sothx
+description=该Magisk模块用于为所有小米平板/红米平板补全Redmi Pad Pro 哈利·波特主题，卸载模块前请将主题替换为平板出厂自带主题，否则可能出现卡米等未知情况。(反馈模块问题可前往酷安私信 @做梦书 或者Github:https://github.com/sothx/mipad-special-edition-featuring-harry-potter)
