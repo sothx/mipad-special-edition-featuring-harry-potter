@@ -1,4 +1,4 @@
-# Redmi Pad Pro 哈利·波特主题补全计划
+# Redmi Pad Pro 哈利·波特版 主题补全计划
 
 ## 模块简介
 该Magisk模块用于为所有小米平板/红米平板补全Redmi Pad Pro 哈利·波特主题
