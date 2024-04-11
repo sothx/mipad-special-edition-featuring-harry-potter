@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<theme>
+<version><![CDATA[1.1]]></version>
+<uiVersion>12</uiVersion>
+<author><![CDATA[小米主题]]></author>
+<designer><![CDATA[小米主题]]></designer>
+<title><![CDATA[Redmi Pad Pro 哈利·波特版]]></title>
+<description><![CDATA[换上巫师袍，想象霍格沃茨在召唤你入学！主题以霍格沃茨开学场景为背景，深度定制桌面背景和图标。经典的魔法元素设计和场景呈现，带你重回哈利·波特的魔法世界！]]></description>
+<themeType>3</themeType>
+<authors>
+<author locale="zh_CN"><![CDATA[小米主题]]></author>
+</authors>
+<designers>
+<designer locale="zh_CN"><![CDATA[小米主题]]></designer>
+</designers>
+<titles>
+<title locale="zh_CN"><![CDATA[Redmi Pad Pro 哈利·波特版]]></title>
+</titles>
+<descriptions>
+<description locale="zh_CN"><![CDATA[换上巫师袍，想象霍格沃茨在召唤你入学！主题以霍格沃茨开学场景为背景，深度定制桌面背景和图标。经典的魔法元素设计和场景呈现，带你重回哈利·波特的魔法世界！]]></description>
+</descriptions>
+<miuiAdapterVersion>2.0</miuiAdapterVersion>
+</theme>
